@@ -2,7 +2,7 @@
 title: "When Pessimism Strikes: Sentiment Shocks, and Durable Consumption"
 collection: research
 category: workingpapers
-permalink: /publication/sentiment-shocks
+permalink: /research/sentiment-shocks
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: February 2024
 # venue: 'Journal 1'

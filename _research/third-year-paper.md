@@ -5,7 +5,7 @@ category: workingpapers
 permalink: /research/sentiment-shocks
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: February 2024
-# venue: 'Journal 1'
+venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://vlsmensh.github.io/files/Sentiment Shocks.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'

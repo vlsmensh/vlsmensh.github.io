@@ -1,14 +1,25 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "When Pessimism Strikes: Sentiment Shocks, and Durable Consumption"
+collection: research
 category: workingpapers
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+permalink: /publication/sentiment-shocks
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: February 2024
+# venue: 'Journal 1'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+# bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper identifies sentiment shocks from households’ inflation expectations by
+imposing a set of zero and sign restrictions in Structural Vector Autoregression. This
+shock reflects movements in economic agents’ “animal spirits”, gives rise to excessive
+pessimism or optimism about an economic outlook in their minds and rationalizes a
+departure of households’ and firms’ expectations from rationality. I quantify aggregate
+fluctuations triggered by the sentiment shock and find that depressed sentiments lead
+to a persistent decline in economic activity and an unusual S-shaped dynamics of
+inflation. One candidate mechanism that can explain these effects, operates through a
+decline in spending on durable goods. The shock best explains medium run volatility
+of the unemployment rate, industrial production and consumption, contributes more
+to short term fluctuations of inflation expectations and accounts for a similar share of
+variance of realized inflation at both short and medium run frequencies.

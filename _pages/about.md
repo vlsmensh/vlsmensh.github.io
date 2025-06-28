@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Economics at Indiana University.
 
-You can find [my CV here](https://vlsmensh.github.io/files/Vladimir_Menshikov_CV.pdf)
+You can find [my CV here](https://vlsmensh.github.io/files/Vladimir_Menshikov_CV.pdf).
 
 My research interests include:
 - Macroeconomics

@@ -9,7 +9,8 @@
 
 main:
    - title: "CV"
-     url: /cv/
+    # url: /cv/
+     url: /files/Vladimir_Menshikov_CV.pdf
     
    #- title: "Research"
    #  url: /research/

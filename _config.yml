@@ -22,10 +22,10 @@ repository               : "vlsmensh/vlsmensh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "vlmenshi.jpeg"
   name             : "Vladimir Menshikov"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Economics"
+  bio              : "Ph.D. Student in Economics"
   location         : "Bloomington, IN"
   employer         : "Indiana University"
   uri              : # URL

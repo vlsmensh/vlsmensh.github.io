@@ -22,7 +22,7 @@ repository               : "vlsmensh/vlsmensh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "vlmenshi.jpeg"
+  avatar           : "vlmenshi.jpg"
   name             : "Vladimir Menshikov"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Economics"

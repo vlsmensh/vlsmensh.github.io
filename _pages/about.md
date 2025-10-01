@@ -9,12 +9,11 @@ redirect_from:
 
 I am a Ph.D. Candidate in Economics at Indiana University.
 
-I am on the 2025-2026 academic job market. You can reach me at vlmenshi@iu.edu
-
-You can find [my CV here](https://vlsmensh.github.io/files/Vladimir_Menshikov_CV.pdf).
+I am on the **2025-2026** academic job market. You can reach me at vlmenshi@iu.edu
 
 My research interests include:
 - Macroeconomics
 - Behavioral Economics
 - Monetary Economics
 
+You can find [my CV here](https://vlsmensh.github.io/files/Vladimir_Menshikov_CV.pdf).

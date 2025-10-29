@@ -3,8 +3,8 @@ title: "Informational Content of Asset Purchase Announcements Under High Uncerta
 collection: research
 category: workingpapers
 permalink: /research/uncertainty_lsap
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: October 2025
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+# date: October 2025
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://vlsmensh.github.io/files/Uncertainty_LSAP.pdf'

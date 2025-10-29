@@ -3,9 +3,9 @@ title: "Informational Content of Asset Purchase Announcements Under High Uncerta
 collection: research
 category: workingpapers
 permalink: /research/uncertainty_lsap
-excerpt: '<div style="text-align: justify;">
+excerpt: '
 <strong>Abstract:</strong> In this paper, I present empirical evidence that the effects of asset purchases conducted by the Federal Reserve depend on the state of macroeconomic uncertainty. I find that when aggregate uncertainty is elevated, a tapering of asset purchases has counterintuitive effects: industrial production steadily increases, and unemployment declines. However, in a state of normal uncertainty, a reduction of asset purchases yields expected contractionary outcomes, as industrial production falls, and unemployment exhibits an upward trend. I interpret these empirical findings as reflecting the informational content of the Federal Reserve's announcements on quantitative easing, which becomes particularly relevant in highly volatile economic conditions. By scaling back asset purchases under elevated uncertainty, the Federal Reserve reveals that its own economic outlook has strengthened relative to its prior projections. This information improves market expectations and acts as a stimulus to economic activity.
-</div>
+
 '
 # date: October 2025
 # venue: 'Journal 1'

@@ -4,7 +4,7 @@ collection: research
 category: workingpapers
 permalink: /research/uncertainty_lsap
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-# date: February 2024
+date: October 2025
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://vlsmensh.github.io/files/Uncertainty_LSAP.pdf'

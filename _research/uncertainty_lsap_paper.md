@@ -2,7 +2,8 @@
 title: "Informational Content of Asset Purchase Announcements Under High Uncertainty (2025)"
 collection: research
 category: workingpapers
-permalink: /research/uncertainty_lsap
+# permalink: /research/uncertainty_lsap
+permalink: none
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: February 2024
 # venue: 'Journal 1'

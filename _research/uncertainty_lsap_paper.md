@@ -3,7 +3,7 @@ title: "Informational Content of Asset Purchase Announcements Under High Uncerta
 collection: research
 category: workingpapers
 permalink: /research/uncertainty_lsap
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work. I present empirical evidence that the effects of asset purchases conducted by the Federal Reserve depend on the state of macroeconomic uncertainty. I find that when aggregate uncertainty is elevated, a tapering of asset purchase'
 # date: October 2025
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

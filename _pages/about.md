@@ -18,6 +18,6 @@ My research interests include:
 
 You can find:
 
-[my Job Market Paper here](https://vlsmensh.github.io/files/Sentiment_Shocks.pdf),
+my Job Market Paper [here](https://vlsmensh.github.io/files/Sentiment_Shocks.pdf),
 
-[my CV here](https://vlsmensh.github.io/files/Vladimir_Menshikov_CV.pdf).
+my CV [here](https://vlsmensh.github.io/files/Vladimir_Menshikov_CV.pdf).

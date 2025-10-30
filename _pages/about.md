@@ -16,4 +16,6 @@ My research interests include:
 - Behavioral Economics
 - Monetary Economics
 
-You can find [my CV here](https://vlsmensh.github.io/files/Vladimir_Menshikov_CV.pdf).
+You can find:
+[my Job Market Paper here](https://vlsmensh.github.io/files/Sentiment_Shocks.pdf),
+[my CV here](https://vlsmensh.github.io/files/Vladimir_Menshikov_CV.pdf).

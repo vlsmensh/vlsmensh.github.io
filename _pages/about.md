@@ -11,7 +11,7 @@ I am a Ph.D. Candidate in Economics at Indiana University.
 
 **I am on the 2025-2026 academic job market.** You can reach me at vlmenshi@iu.edu
 
-My research interests include:
+My **research interests** include:
 - Macroeconomics
 - Behavioral Economics
 - Monetary Economics

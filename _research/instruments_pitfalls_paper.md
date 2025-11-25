@@ -12,7 +12,7 @@ paperurl: 'https://vlsmensh.github.io/files/Instruments_Pitfalls.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 excerpt_separator: "<!--more-->"
 ---
-with Christian Matthes and Todd Walker
+with [Christian Matthes](https://cm1518.github.io/) and [Todd Walker](https://toddbwalker.com/)
 
 November 2025
 

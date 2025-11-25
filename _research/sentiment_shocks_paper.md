@@ -13,7 +13,7 @@ paperurl: 'https://vlsmensh.github.io/files/Sentiment_Shocks.pdf'
 excerpt_separator: "<!--more-->"
 ---
 
-(**Job Market Paper**)
+(Job Market Paper)
 
 November 2025
 <div style="text-align: justify;">

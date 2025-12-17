@@ -4,7 +4,7 @@ collection: research
 category: workingpapers
 permalink: /research/sentiment_shocks
 # excerpt: "This paper is about the number 1. The number 2 is left for future work."
-date: 2025-12-4
+date: 2025-12-17
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://vlsmensh.github.io/files/Sentiment_Shocks.pdf'

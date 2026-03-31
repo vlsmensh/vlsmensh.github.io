@@ -12,3 +12,15 @@ body {
 #main {
   background-color: #ffffff !important;
 }
+
+/* Colors of links */
+
+a {
+  color: #1a73e8 !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: ##1bd2e3 !important;
+  text-decoration: underline;
+}

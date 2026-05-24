@@ -34,8 +34,17 @@ body {
   color: #11b2d6 !important;
 }
 
-/* Make profile image rectangular */
-.author__avatar img,
+/* Profile image styling */
+/* Frame */
 .author__avatar {
-  border-radius: 0 !important;
+  border: none !important;
+  background: none !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+}
+/* Image itself */
+.author__avatar img {
+  border-radius: 15px !important;
+  border: none !important;
+  clip-path: none !important;
 }

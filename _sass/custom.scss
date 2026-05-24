@@ -34,7 +34,8 @@ body {
   color: #11b2d6 !important;
 }
 
-/* Profile photo reshape */
-.author__avatar img {
-  border-radius: 10px !important;
+/* Make profile image rectangular */
+.author__avatar img,
+.author__avatar {
+  border-radius: 0 !important;
 }

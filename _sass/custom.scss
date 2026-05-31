@@ -53,6 +53,11 @@ body {
 /* Force Georgia everywhere */
 html,
 body,
-* {
-  font-family: "Georgia", serif !important;
+.page,
+.page__content,
+.archive,
+.archive__item,
+.sidebar,
+.masthead {
+  font-family: "Inter", serif !important;
 }

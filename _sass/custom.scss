@@ -50,6 +50,13 @@ body {
 }
 
 /* Font Style */
-body {
-  font-family: "Georgia", serif !important;
+html,
+body,
+.page,
+.page__content,
+.archive,
+.archive__item,
+.sidebar,
+.masthead {
+  font-family: Georgia, serif !important;
 }

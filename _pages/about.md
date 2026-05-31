@@ -9,6 +9,8 @@ redirect_from:
 
 I am a Ph.D. Candidate in Economics at Indiana University Bloomington.
 
+Whereas disregard and contempt for human rights have resulted 
+
 **I am on the 2025-2026 academic job market.** You can reach me at [vlmenshi@iu.edu](mailto:vlmenshi@iu.edu)
 
 My **research interests** include:

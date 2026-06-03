@@ -16,8 +16,12 @@ with [Christian Matthes](https://cm1518.github.io/) and [Todd Walker](https://to
 
 February 2026
 
-<div style="text-align: justify;">
+<details>
+  <summary>Abstract</summary>
+
+  <div style="text-align: justify; margin-top: 10px;">
 <strong>Abstract:</strong> Structural VARs are often identified by using instruments derived from the residuals of auxiliary regressions (e.g., Romer and Romer (2004)). We evaluate the finite sample performance of this procedure in a series of Monte Carlo experiments using the Smets and Wouters (2007) model as our laboratory. We find that such instruments are meaningfully correlated not only with the monetary policy innovation, but also with other structural shocks, leading to substantial biases and variation in estimated impulse responses. We then examine several proposals from the literature designed to mitigate these issues. In our experimental setting, however, we find that none of these suggested solutions provides a meaningful improvement.
 </div>
+</details>
 
 <!--more-->

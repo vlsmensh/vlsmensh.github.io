@@ -61,6 +61,16 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
+    {% if post.abstract %}
+<details class="archive-abstract">
+  <summary>Abstract</summary>
+
+  <div class="archive-abstract-content">
+    {{ post.abstract | markdownify }}
+  </div>
+</details>
+{% endif %}
+
     {%- comment -%}
     
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}

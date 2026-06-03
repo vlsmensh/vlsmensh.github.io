@@ -109,7 +109,6 @@ h6,
 
 /* Horizontal lines hr defined for all such lines on the website */
 
-/* Horizontal lines */
 hr {
   border: none !important;
   height: 2px !important;
@@ -118,4 +117,9 @@ hr {
   margin-bottom: 0.5em;
 }
 
+/* Page titles in italics */
+
+.page__title {
+  font-style: italic !important;
+}
 

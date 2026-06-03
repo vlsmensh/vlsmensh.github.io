@@ -123,3 +123,29 @@ hr {
   font-style: italic !important;
 }
 
+/* Abstract toggle */
+
+/* Abstract toggle styling */
+.archive-abstract {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+.archive-abstract summary {
+  cursor: pointer;
+  color: #0c1bf0;
+  font-weight: 600;
+  list-style: none;
+}
+
+.archive-abstract summary:hover {
+  color: #11b2d6;
+}
+
+.archive-abstract-content {
+  margin-top: 0.5em;
+  text-align: justify;
+  padding-left: 0.5em;
+  border-left: 3px solid #0c1bf0;
+}
+

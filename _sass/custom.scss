@@ -60,6 +60,7 @@ body,
 }
 
 /* Font Style */
+/* Global typography */
 html,
 body,
 .page,
@@ -67,6 +68,34 @@ body,
 .archive,
 .archive__item,
 .sidebar,
-.masthead {
+.masthead,
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+
+/* Publication and archive titles */
+.archive__item-title,
+.archive__item-title a,
+.archive__item a,
+
+/* Sidebar */
+.author__name,
+.author__bio,
+
+/* Navigation */
+.greedy-nav,
+.greedy-nav a,
+.masthead__menu-item,
+.masthead__menu-item a,
+
+/* Site title */
+.site-title,
+.site-title a {
+
   font-family: 'Merriweather', serif !important;
 }

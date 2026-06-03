@@ -123,9 +123,9 @@ hr {
   font-style: italic !important;
 }
 
-/* Abstract toggle */
 
 /* Abstract toggle styling */
+
 .archive-abstract {
   margin-top: 0.5em;
   margin-bottom: 1em;
@@ -133,19 +133,30 @@ hr {
 
 .archive-abstract summary {
   cursor: pointer;
-  color: #0c1bf0;
+  color: #1eb33e;
   font-weight: 600;
   list-style: none;
+  position: relative;
+}
+
+/* Add arrow BEFORE text when closed */
+.archive-abstract summary::before {
+  content: "▶ ";
+}
+
+/* When open, change arrow */
+.archive-abstract[open] summary::before {
+  content: "▼ ";
 }
 
 .archive-abstract summary:hover {
-  color: #11b2d6;
+  color: #b1c914;
 }
 
 .archive-abstract-content {
   margin-top: 0.5em;
   text-align: justify;
   padding-left: 0.5em;
-  border-left: 3px solid #0c1bf0;
+  border-left: 3px solid #1eb33e;
 }
 

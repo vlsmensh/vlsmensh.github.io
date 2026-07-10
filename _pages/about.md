@@ -8,17 +8,10 @@ redirect_from:
 ---
 
 
-I am a Ph.D. Candidate in Economics at Indiana University Bloomington.
+I received a PhD in Economics at Indiana University Bloomington in May 2026.
 
-**I am on the 2025-2026 academic job market.** You can reach me at [vlmenshi@iu.edu](mailto:vlmenshi@iu.edu)
+My **research interests** include Macroeconomics, Behavioral Economics, Expectations, and Monetary Economics.
 
-My **research interests** include:
-- Macroeconomics
-- Behavioral Economics
-- Monetary Economics
+In September, I will join the Faculty of Economic Sciences at the Higher School of Economics (HSE) as an Assistant Professor in Economics.
 
-You can find:
-
-my *Job Market Paper* [here](https://vlsmensh.github.io/files/Sentiment_Shocks.pdf),
-
-my *CV* [here](https://vlsmensh.github.io/files/Vladimir_Menshikov_CV.pdf).
+Feel free to reach me at [vlsmenshikov@gmail.com](mailto:vlsmenshikov@gmail.com).

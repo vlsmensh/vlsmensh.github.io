@@ -14,8 +14,6 @@ excerpt_separator: "<!--more-->"
 abstract: >
   Structural VARs are often identified by using instruments derived from the residuals of auxiliary regressions (e.g., Romer and Romer (2004)). We derive analytical characterizations of the instrument’s correlation with the true shocks and evaluate the procedure’s finite-sample performance using Monte Carlo experiments based on the model of Smets and Wouters (2007). We find that such instruments are meaningfully correlated not only with the monetary policy innovation, but also with other structural shocks, leading to substantial biases and variation in estimated impulse responses. We then examine several proposals from the literature designed to mitigate VAR issues and propose a correction based on instruments for other structural shocks.
 ---
-with [Christian Matthes](https://cm1518.github.io/) and [Todd Walker](https://toddbwalker.com/)
-
-2026
+with [Christian Matthes](https://cm1518.github.io/) and [Todd Walker](https://toddbwalker.com/), 2026
 
 <!--more-->

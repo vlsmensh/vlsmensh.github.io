@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 
-I received a PhD in Economics at Indiana University Bloomington in May 2026.
+I obtained my PhD in Economics from Indiana University Bloomington in May 2026.
 
 My **research interests** include Macroeconomics, Behavioral Economics, Expectations, and Monetary Economics.
 
-In September, I will join the Faculty of Economic Sciences at the Higher School of Economics (HSE) as an Assistant Professor in Economics.
+In September 2026, I will join the Faculty of Economic Sciences at the Higher School of Economics (HSE) as an Assistant Professor in Economics.
 
 Feel free to reach me at [vlsmenshikov@gmail.com](mailto:vlsmenshikov@gmail.com).

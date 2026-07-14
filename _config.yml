@@ -25,11 +25,11 @@ author:
   avatar           : "PXL_20250926_194926446.PORTRAIT_This_2_Light_Web.jpg"
   name             : "Vladimir Menshikov"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student in Economics"
-  location         : "Bloomington, IN"
-  employer         : "Indiana University"
+  bio              : "Ph.D. in Economics"
+  location         : "Moscow, Russia"
+  employer         : "Higher School of Economics (starting this Fall)"
   uri              : # URL
-  email            : "vlmenshi@iu.edu" 
+  email            : "vlsmenshikov@gmail.com" 
 
   # Academic websites
   academia         : # URL

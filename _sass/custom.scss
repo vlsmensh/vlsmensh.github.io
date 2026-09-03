@@ -223,6 +223,12 @@ hr {
   color: #1b0d85 !important;
 }
 
+/* Remove the original Academic Pages navigation underline */
+.greedy-nav .visible-links a::before,
+.greedy-nav .visible-links a::after {
+  display: none !important;
+}
+
 /* Navigation hover underline */
 .greedy-nav .visible-links a:hover {
   text-decoration: underline !important;

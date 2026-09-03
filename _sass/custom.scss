@@ -210,3 +210,23 @@ hr {
   margin-left: 22%;
 }
 
+
+                                     /* Navigation links on top */
+
+/* Navigation link color */
+.greedy-nav .visible-links a {
+  color: #000000 !important;
+}
+
+/* Navigation link hover color */
+.greedy-nav .visible-links a:hover {
+  color: #1b0d85 !important;
+}
+
+/* Navigation hover underline */
+.greedy-nav .visible-links a:hover {
+  text-decoration: underline !important;
+  text-decoration-color: #1b0d85 !important;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
